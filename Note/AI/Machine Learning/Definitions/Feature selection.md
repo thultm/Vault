@@ -1,0 +1,3 @@
+- Is the process of reducing the number of input variables when developing a predictive model.
+- Disadvantages 
+	- Useful features could be lost

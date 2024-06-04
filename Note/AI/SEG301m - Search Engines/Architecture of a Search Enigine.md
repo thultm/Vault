@@ -1,0 +1,78 @@
+# Basic IR System Architecture
+![[Pasted image 20230908153158.png]]
+- Components in information retrieval system 
+	- A user has an information need, which underlies and drives the search process 
+	- User constructs and issues a query to the IR system 
+	- Search engine is to maintain and manipulate an inverted index for a document collection 
+	- Index provides a mapping between terms and the locations in the collection in which they occur
+- Search engine has played an important role in IR system. Its primary goals include: 
+	- Effectiveness (quality): retrieve the most relevant set of documents possible for a query 
+	- Efficiency (speed): process queries from users as quickly as possible
+- Search engine has two major components 
+	- Indexing process ![[Pasted image 20230908154001.png]]
+		- Like an appendix
+	- Query process ![[Pasted image 20230908154013.png]]
+# Building blocks 
+## Text acquisition
+- Task: identify and make available the documents that will be searched 
+	- Crawler 
+		- General web crawler 
+			- Follow the links on web pages to discover and download new pages 
+			- Efficiently find huge numbers of web pages (coverage) and keep them up-to-date (freshness) 
+			- Single site crawlers for site search 
+			- Topical or focused crawlers for vertical search 
+		- Document crawlers for enterprise and desktop search 
+			- Follow links and scan directories
+	- Feeds 
+		- Mechanism for accessing a real-time stream of documents 
+			- News feed is a constant stream of news stories and updates 
+		- A search engine acquires new documents from a feed simply by monitoring it 
+			- RSS is a common standard used for web feeds for content such as news, blogs, or video
+	- Conversion 
+		- Convert documents into a consistent text plus metadata format HTML, XML, PDF, Word, … → XML 
+		- Convert text encoding for different languages 
+			- 8-bit ASCII code represents 256 characters, Chinese have many more than 256 characters → cannot by represented 8-bit ASCII 
+			- Unicode (16-bit words) represent most of the world’s languages
+	- Document data store
+		- Database used to manage large numbers of documents and the structured data that is associated with them 
+		- Stores text, metadata and other related content (links or anchor text) for documents 
+		- Provides very fast access to document contents for search engine components 
+		- Can use a relational database system to store documents and metadata 
+			- Use a simpler, more efficient storage system is used because of huge numbers of documents
+## Text transformation
+- Parser 
+	- Processing the sequence of text tokens in the document to recognize structural elements
+		- e.g., titles, links, headings, etc. 
+	- Tokenizer recognizes “words” in the text 
+		- Must consider issues like capitalization, hyphens, apostrophes, non-alpha characters, separators 
+	- Markup languages such as HTML, XML often used to specify structure
+		- Tags used to specify document elements: E.g. <h/2> Overview <h/2>
+		- Document parser uses syntax of markup language (or other formatting) to identify structure 
+- Stopping 
+	- Remove common words 
+		- e.g., “and”, “or”, “the”, “in” 
+	- Some impact on efficiency and effectiveness 
+	- Can be a problem for some queries 
+- Stemming 
+	- Group words derived from a common stem 
+		- e.g., “computer”, “computers”, “computing”, “compute” 
+	- Usually effective, but not for all queries 
+	- Benefits vary for different languages 
+- Link extraction and analysis 
+	- Makes use of links and anchor text in web pages 
+	- Link analysis identifies popularity and community information 
+		- e.g., PageRank, Hubs & Authorities 
+	- Anchor text can significantly enhance the representation of pages pointed to by links 
+	- Significant impact on web search 
+		- Less importance in other applications 
+- Information Extraction 
+	- Identify classes of index terms that are important for some applications 
+	- e.g., named entity recognizers identify classes such as people, locations, companies, dates, etc. 
+- Classifier 
+	- Identifies class-related metadata for documents 
+		- i.e., assigns labels to documents (identifying documents as spam, and identifying the non-content parts of documents, such as advertising)
+		- e.g., topics (“sports”, “politics”, or “business”), reading levels, sentiment, genre 
+	- Use depends on application
+## Evaluation 
+- Based on good test dataset
+- Based on user 

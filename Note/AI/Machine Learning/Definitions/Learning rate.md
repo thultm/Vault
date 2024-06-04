@@ -1,0 +1,7 @@
+- Is usually a small positive number between 0 and 1
+- Basically controls how big of a step you take downhill
+- Symbol: $\alpha$
+- If $\alpha$ is too small, [[Gradient Descent]] may be slow.
+- If $\alpha$ is too large [[Gradient Descent]] may:
+	- **Overshoot**, never reach minimum
+	- Fail to converge, diverge

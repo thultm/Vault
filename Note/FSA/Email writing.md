@@ -1,0 +1,115 @@
+> Think before you send
+# I. Email activatives
+- Write new emails
+- Reply/ Reply All
+- Forward emails
+# II. Email elements 
+- Recipients
+- Subject Line
+- Contents
+- Attachments
+- Signature
+## 1. Email Subjects
+- Always have email subjects
+- Email Subjects Should Have Prefixes
+- Example:
+	- [UNIT-NAME] Email name
+		- [Fresher Academy] Kick-off Java class in August
+		- $\text{[FSU}_{I}-\text{BU}_{I}]$ Summer Team Building
+	- [PROJECT-NAME] Email name
+		- [Backing Core] Retrospective Meeting
+		- [FA-FrontEnd] User Story Discussion - Sprint 3
+	- [EVENT-NAME] Email name
+		- [Tech-Talk] DevOps Sharing
+		- [Fresher-Interview] .Net Interview in September
+## 2. Email Recipients
+- Verify recipients
+	- Whom you work with: Khách hàng, đối tác, đồng nghiệp làm cùng trong 1 user story hoặc 1 dự án
+	- Direct Managers: những người liên quan trực tiếp
+	- Involved people (teammate): những người liên quan đến dự án nhưng không liên quan trực tiếp đến vấn đề trong email
+	- Đánh dấu tiền tố, hậu tố để tránh nhầm lẫn
+- Understand To list, CC list and BCC list
+	- TO List
+		- People who are in charged and need to react
+		- People who need the information and content that you share
+	- CC List (Carbon Copy)
+		- People who just need to know, don't really need to react
+		- People whom you want to keep informed
+	- BCC List (Blind Carbon Copy)
+		- People who you want to share messages but you don't want others to know
+		- Secret sharing
+- Keep Everyone in the loop
+- Fill recipients just before sending emails
+- Reply All or not
+	- Reply All
+		- Reply all when you want all people to know your ideas/ messages
+		- Be careful because some people do not want to receive emails from you (as common discussion, chat-chit)
+	- Reply
+		- Reply directly the sender
+		- Reply few people on the list or add mere recipients
+- Forward emails
+	- Add FYI (For Your Information) or FYA (For Your Action) or your detailed messages
+	- Consider attachment files (add more or remove)
+	- Remove sensitive data or irrelevant messages if any
+## 3. Email Contents
+- Email content structures
+	- Introduction/ Greeting/ Context
+		- Introduction
+		- You need supports or approvals from someone who you are not close
+	- Greetings
+		- You need to communicate with customers (at the first time or monthly report emails)
+	- Context
+		- You follow a task/ a user story/ an issue/ a project
+		- You need to explain a context/ situation
+	- Email Message - Main part
+		-  What you want to discuss/ share/ inform/ ask
+		- Show your expectation/ needs
+		- Define activities (you or recipients)
+	- Closing
+		- Say thanks or your willing to recipients
+		- Regards/ Kind Regards/ Best Regards
+		- Email Signature
+- Text Colors
+	-  One or Two Text Colors
+- Text Font 
+	- One Text Font
+- Empty lines between Paragraphs 
+- Always check spelling and grammar
+![](https://i.imgur.com/w2yKwHT.png)
+## 4. Email Attachments
+- Meaningful attachment names
+- Remove irrelevant files
+- Compress files
+## 5. Email Signatures
+- Always Have Email Signatures
+- Professional Signatures ![Professional Signatures](https://i.imgur.com/oRzvg3o.png)
+## 6. Email Rules
+- Write a meaningful subject line/ Email subjects are email purposes
+	- Samples of Subject Lines
+		- [Fresher Academy] Java Candidate List in July
+		- $[FSU_{I}-BU_{I}]$ Project Reports
+		- [Banking core] Authentication Issues
+		- [FA-Front End] Architecture Design Reviews
+- Use Short VVords, Sentences, and Paragraphs
+	- Sử dụng từ ngắn gọn, đơn giản
+	- Không viết câu quá dài 
+	- 1 đoạn văn tối đa 7 câu, câu đầu tiên là topic sentence cho cả đoạn văn đấy
+- Make Sure Your Message is Completed
+	- Don't send when you don't provide enough information/context/expectation
+	- Don't send when you haven't add enough recipients
+	- Don't send when you haven't attached required files
+	- Don't send when you haven't had subject lines
+	- Don't send when you haven't had your signatures
+	- Be careful with your mouse on the SEND button
+- Avoid attachments
+	- How to share files
+		- Workspace
+		- Influence
+		- JIRA
+		- Project Servers
+		- Source Code Control Tools
+- Use Uppercase/ Lowercase wise
+	- Don't use lowercase for names (impolite)
+	- Don't use uppercase randomly or arbitrary
+	- Use Uppercase for names and locations
+	- Use uppercase to start sentences

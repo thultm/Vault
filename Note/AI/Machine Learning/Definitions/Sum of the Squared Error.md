@@ -1,0 +1,2 @@
+- Is **the difference between the observed value and the predicted value**.
+- Formula: $$\frac{1}{2m}\sum\limits_{i=1}^{m} (\hat{y}^{(i)}-y^{(i)})^{2}$$

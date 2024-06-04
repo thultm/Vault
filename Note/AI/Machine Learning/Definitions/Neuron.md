@@ -1,0 +1,1 @@
+> Within a nervous system, a **neuron**, **neurone**, or **nerve cell** is an [[electrically excitable cell]] that fires electric signals called [[action potentials]] across a [[Neural network]].

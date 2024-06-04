@@ -1,0 +1,2 @@
+> The [[Gradient]], represented by the blue arrows, denotes the direction of greatest change of a scalar function. The values of the function are represented in greyscale and increase in value from white (low) to dark (high).
+![](https://i.imgur.com/gG3kxbg.png)

@@ -1,0 +1,104 @@
+> The only way to do great work is to love what you do
+\- (Steve Jobs)
+# 1. Preparation
+- Resume, CV
+	- The most important tool you have on a resume is **language**
+	- Resume contents should have
+		- Personal Information
+		- Objective
+		- Education
+		- Educational Projects
+		- Internships (If any)
+		- Professional Projects (If any)
+		- Technical Skills
+		- Soft Skills
+		- Volunteer Experiences
+		- Interests
+	- Best Practices
+		- Be honest
+		- Follow templates
+		- Just add your strengths
+		- Check spelling and grammar
+		- Check format carefully
+		- One front, one or two colors
+		- No privacy
+		- Use action verbs
+		- Use crisp bullet points
+		- No paragraphs
+- Mentality 
+  > Be so good, they can't ignore you (Steve Martin)
+	- Be Confident
+	- Enough Nervous (To have better preparation)
+	- Just a Talk (Think it easy)
+	- The power of a Smile
+- Dress for Interviews
+	- Polite, bright (white) and clean clothes
+	- Clean and neat hair
+	- Shoes/ Sandals (no flip-flop)
+	- (Girls) Makeup bring more confident, but don't over make up
+# 2. Interview
+- Interview Knowledge
+	- List detailed topics that you have learned and practiced
+	- Find sample interview questions
+	- Try interview with your friends or classmates
+	- Practice your programming skills with simple code
+- Interview Structure
+	- Introduction
+		- Dos
+			- Your name
+			- Your school/ university
+			- Your major
+			- Your subjects on school
+			- Your experiences/ knowledge
+			- Your career objectives
+		- Don'ts
+			- Your weaknesses
+			- How many people on your family
+			- Your lover's name
+			- Your siblings
+			- Your interested movies
+			- Your interested music idols
+	- Knowledge Discussion
+		- The most important part
+			- Answer based on your knowledge and experiences
+			- If you don't know the answer, tell the truth but be wise
+			- I am sorry I might not know ABC or I don't remember ABC. I will read/check it after the interview
+			- Remember answer keywords
+	- Behavioral Discussion
+		- It is not difficult in fresher interviews
+			- Show your motivation
+			- Show you as a good team player
+			- Show your communication skills
+			- Show your professional working style
+			- Show your willing to work
+- Answer Notices
+	- Short and Brief
+	- 3-4 sentences in 2-3 minutes
+	- Sentences with subjects and objects
+	- As I understand, As I learned, As I remember
+	- Ask questions again if you don't understand (maximum 2 times)
+	- Always be friendly and honest
+> Never Say "I don't know" or "I can't do it"
+# 3. After the Interview
+- Lesson Learned
+	- More interviews will come
+		- Your communication skills
+		- Your mistakes (to avoid)
+			- arrogant, rude, impolite, talk too much, stubborn
+		- Your weaknesses (to improve)
+			- Lack of knowledge
+			- Lack of experience/ practical
+- Thank-you Emails
+- Dos
+	- Send your email right away (24 hours)
+	- Include all your interviewers and managers
+	- Include the name of the position in the
+	- subject line
+	- Say thanks and looking forward to next steps
+	- Show your willing to join their units
+	- Follow email writing rules
+- Don'ts
+	- Share social media connection/ profiles
+	- Be too casual
+	- Act as you are hired
+	- Act as you are failed

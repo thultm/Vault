@@ -1,0 +1,1 @@
+- The sample of data used to provide an unbiased evaluation of a model fit on the [[Training set|training dataset]] while tuning model hyperparameters. The evaluation becomes more biased as skill on the [[Validation set|validation dataset]] is incorporated into the model configuration.

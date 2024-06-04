@@ -1,0 +1,12 @@
+- If the [[Training set]] error is low, but the [[Validation set]] is high, then the model may have high variance 
+- If the [[Training set]] error is high, but the [[Validation set]] is also high, then the model may have high variance 
+- If the [[Training set]] error is high, but the [[Validation set]] is even higher, then the model may have high variance 
+# Basic recipe for [[Machine learning]]
+- First step, deifine high bias problem:
+	- Pick a larger network with more hidden layers or hidden units, train for a longer time, or try a more advanced optimization algorithm.
+	- If none of these options works, trying a different neural network architecture.
+	- The goal is to reduce bias to an acceptable amount.
+- Second, define high variance problem:
+	- Get more data, using [[Regularization]], or trying a more appropriate neural network architecture.
+	- The goal is to reduce variance to an acceptable amount.
+	- [[Regularization]] can reduce variance but can increase bias slightly.
